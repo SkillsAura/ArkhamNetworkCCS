@@ -2,7 +2,7 @@
     "room": "♫ ArkhamNetwork ♫",
     "author": "ArhkamBot",
     "icon": "https://pbs.twimg.com/profile_images/712122646297747456/KmsgDkHx.jpg",
-    "css": null,
+    "css": "https://raw.githubusercontent.com/SkillsAura/ArkhamNetworkCCS/master/Test.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
